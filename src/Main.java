@@ -11,5 +11,12 @@ public class Main {
        fs.size="234";
        fs.temp="100";
 
+       planet2 p1= new planet2();
+       p1.rings="2";
+       p1.color="Yellow";
+       p1.size=32423;
+       p1.temperature="111";
+
+
     }
 }
